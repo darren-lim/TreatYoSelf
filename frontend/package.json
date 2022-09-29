@@ -36,7 +36,7 @@
     "bootstrap": "^4.5.2",
     "chart.js": "^2.9.3",
     "d3": "^5.16.0",
-    "d3-color": "^1.4.1",
+    "d3-color": "^3.1.0",
     "d3-interpolate": "^1.4.0",
     "emailjs-com": "^2.6.3",
     "font-awesome": "^4.7.0",
